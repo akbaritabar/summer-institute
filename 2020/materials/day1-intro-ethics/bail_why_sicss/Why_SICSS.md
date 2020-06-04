@@ -1,7 +1,9 @@
 <style>
+
 .reveal section p {
   color: black;
   font-size: .7em;
+  font-weight: normal;
   font-family: 'Helvetica'; #this is the font/color of text in slides
 }
 
@@ -12,7 +14,27 @@
 .section .reveal p {
     color: black;
     position: relative;
+    font-family: 'Helvetica';
+    font-weight: normal;
     top: 4%;}
+   
+ 
+ /* section titles */
+.reveal h1 { 
+  color: black;
+  position: relative;
+  font-weight: normal;
+  font-family: 'Helvetica'; 
+  top: 4%
+}    
+
+ 
+/* slide titles */
+.reveal h3 { 
+  color: black;
+  font-weight: normal;
+  font-family: 'Helvetica'; 
+}    
 
 
 </style>
@@ -24,9 +46,10 @@ author: Chris Bail
 date: Duke University
 autosize: true
 transition: fade  
-  website: https://www.chrisbail.net  
-  github: https://github.com/cbail  
-  Twitter: https://www.twitter.com/chris_bail
+  Website: https://www.chrisbail.net  
+  Twitter: https://www.twitter.com/chris_bail  
+  Github: https://github.com/cbail  
+
 
 
 ========================================================
@@ -40,7 +63,7 @@ transition: fade
 1. Big Problems in the World
 ========================================================
 
-<img src="cambridge.jpg" height="600" />
+<img src="covid_picture.png" height="600" />
 
 
 
@@ -51,17 +74,17 @@ transition: fade
 ========================================================
 
 <img src="ss_disciplines_time.jpg" />
-https://www.chrisbail.net/post/mapping-computational-social-science
+Source: Web of Science, for more details see [this link](https://www.chrisbail.net/post/mapping-computational-social-science)
 
-3. Our Field is Interdisciplinary
+3. We Must Grow Together
 ========================================================
 
 
-3. Our Field is Interdisciplinary
+3. We Must Grow Together
 ========================================================
 
 <img src="colore_by_nodes_arial.png"/>
-https://www.chrisbail.net/post/mapping-computational-social-science
+Source: Web of Science, for more details see [this link](https://www.chrisbail.net/post/mapping-computational-social-science)
 
 4. Training Opporunities are Rare
 ========================================================
@@ -129,12 +152,6 @@ Goal #3: Reach a Broad Audience
 Goal #3: Reach a Broad Audience
 ========================================================
 
-<embed width="800" height="600" src="https://cbail.github.io/sicss_around_globe.html">
-
-
-Goal #3: Reach a Broad Audience
-========================================================
-
 <img src="sicss_collage.png" height="500" />
 
 
@@ -143,9 +160,14 @@ Goal #3: Reach a Broad Audience
 
 <img src="sicss_world.png" height="500" />
 
-And many more people are following along online!
+More than 20 locations over three years. And many more people are following along online!
 
+Goal #3: Reach a Broad Audience
+========================================================
 
+<img src="varycss.png" height="500" />
+
+Check it out: http://varycss.org/
 
 
 Goal #4: Open-Source
@@ -154,8 +176,22 @@ Goal #4: Open-Source
 Goal #4: Open-Source
 ========================================================
 
-<embed width="800" height="600" src="https://compsocialscience.github.io/summer-institute/2019/#schedule">
+<img src="sicss_website.png" height="500" />
 
+
+Goal #4: Open-Source
+========================================================
+
+<img src="sicss_learning.png" height="500" />
+
+Link to site [here](https://compsocialscience.github.io/summer-institute/curriculum)
+
+Goal #4: Open-Source
+========================================================
+
+<img src="sicss_github.png" height="500" />
+
+Link to our Github [here](https://github.com/compsocialscience/summer-institute)
 
 
 Goal #5: Teach the Teachers
@@ -178,7 +214,7 @@ Goal #6: Create a Diverse Community
 
 <img src="sicss_mosaic.png"/>
 
-You can view the entire list of people who have ever participated in SICSS here: https://compsocialscience.github.io/summer-institute/participants
+You can view the entire list of people who have ever participated in SICSS [here](https://compsocialscience.github.io/summer-institute/people)
 
 
 
@@ -197,51 +233,31 @@ Schedule
 <img src="SICSS Anatomy.png"/>
 
 
-Lecture Schedule
+SICSS Core Curriculum
 ========================================================
 &nbsp; 
 
-Day | Topic
+Topic | Speaker
 ------------- | -------------
-Monday | **Intro/Ethics** (Matt & Chris)
-Tuesday | **Collecting Digital Trace Data** (Chris)
-Wednesday | **Automated Text Analysis** (Chris)
-Thursday | **Surveys in the Digital Age** (Matt)
-Friday | **Mass Collaboration** (Matt)
-Saturday | **Field Experiments** (Matt)
+**Intro and Ethics** | Matt Salganik & Chris Bail (or Partner Site Leaders)
+**Collecting Digital Trace Data** | Chris Bail (or Partner Site Leaders)
+**Automated Text Analysis** | Chris Bail (or Partner Site Leaders)
+**Surveys in the Digital Age** | Matt Salganik (or Partner Site Leaders)
+**Mass Collaboration** | Matt Salganik (or Partner Site Leaders)
+**Field Experiments** | Matt Salganik (or Partner Site Leaders)
 
 
 Accessing Materials
 ========================================================
-Go to this site: https://compsocialscience.github.io/summer-institute/2019/#schedule
+<img src="sicss_learning.png" height="500" />
 
-&nbsp; 
-
-<embed width="800" height="600" src="https://compsocialscience.github.io/summer-institute/2019/#schedule">
-
-
+Link to site [here](https://compsocialscience.github.io/summer-institute/curriculum)
 
 Visiting Speakers
 ========================================================
+<img src="duncan.png" height="500" />
 
-<img src="Visiting_speakers.png"/>
-
-Link to Schedule Across all SICSS Sites: https://bit.ly/2I1SXE5 
-
-All talks will be archived on our [YouTube Channel] (https://www.youtube.com/watch?v=9flaMjO-r24&feature=youtu.be)
-
-
-Asking Questions to Speakers
-========================================================
-&nbsp; 
-
-To ask a question to a speaker, please choose one of the following options:
-
-a) Post your question to the [sicss2019.slack.com](https:/sicss2019.slack.com) workspace entitled #speakerquestions;  
-
-b) Tweet your question to [@chris_bail](https://www.twitter.com/chris_bail) or [@msalganik](https://www.twitter.com/msalganik); or
-
-c) Tweet your question to one of our teaching assistants: ([@T_mWolff](https://www.twitter.com/T_mWolff), [@Danielleitaaa](https://www.twitter.com/Danielleitaaa), [@alextkindel](https://www.twitter.com/alextkindel), or [@simonezhang](https://www.twitter.com/simonezhang))
+These will be posted on our [website](https://compsocialscience.github.io/summer-institute/curriculum#bonus_lectures) and our [YouTube Channel] (https://www.youtube.com/watch?v=9flaMjO-r24&feature=youtu.be)
 
 
 Group Projects
@@ -264,7 +280,7 @@ http://bit.ly/2rF78IV
 
 ========================================================
 
-# **YOUR RESPONSIBILITIES**
+# **EXPECTATIONS**
 
 
 
@@ -292,3 +308,7 @@ Anonymous Feedback Form
 
 https://forms.gle/uwB17RpvFU5RkJgHA
  
+========================================================
+
+# **LET'S GET STARTED!**
+

@@ -1,0 +1,68 @@
+- name: Taiwo Amoo 
+  image: /2020/montreal/images/Taiwo_Amoo.png
+  bio: "Taiwo Amoo is a PhD candidate in Computer Science at University of Lagos. His research interests include development and application of machine learning techniques to mine machine generated data and also leverages spatio-temporal models for solving social problems. He underwent his research internship at MainOne where he was involved in several data mining related tasks on system logs. Recently, he was selected as a winner of the MTN Academic Research Design and Innovation Challenge. He is currently the founder of LogTech which leverages machine learning to anticipate failures in intermediary devices in the network using logs and trouble tickets."
+
+- name: Boureima Adamou
+  image: 
+  bio: 
+ 
+- name: Giorgio Barnabò
+  image: /2020/montreal/images/Foto_GiorgioBarnabò.jpg
+  bio: "Giorgio Barnabò graduated in Applied Statistics and is now a Ph.D. candidate in Data Science at the Department of Cumputer Engineering, Sapienza University, Rome - Italy. His research focuses on Algorithmic Fairness, and Affirmative Action policies. Recently, he started applying advanced NLP techniques (i.e. Bert like language models) to online contents in order to study how narratives are created and spread in the online world."
+  
+- name: Fatim Diabagaté 
+  image: /2020/montreal/images/Fatim_diabate.jpg
+  bio: "Fatim Diabagaté is a PhD candidate in economics at Université de Montréal. She holds a Master's in Statistics and Economics. Her research focuses on labour mobility, immigration and housing. More specifically, her current orientation addresses information issues about workers actual skills, how immigration affects public debt and the impact of parents' homeownership on kids' long-term outcomes. She is interested in deepening her skills in computational science for ongoing projects on gender wage gap using machine learning algorithms."
+  
+- name: Chaimae Drioui
+  image: /2020/montreal/images/DRIOUI.Photo.jpg    
+  bio: "Drioui Chaimae is a PhD candidate at National Institute of Statistics and Applied Economics (INSEA), Morocco. She is a state engineer in statistics and demography, graduated from INSEA. She is also a member of the GES_3D laboratory (Gender, economics, statistics, demography and sustainable development). Her PhD study is interested in the analysis of fertility and reproductive health with a gender perspective."
+
+- name: Shruti Kulkami
+  image: 
+  bio: 
+  
+- name: Matthew Martin
+  image: /2020/montreal/images/Mattew_Martin.jpg
+  bio: "Matthew Martin is a PhD Candidate in the Cognitive Informatics program at L'Université du Québec à Montréal (UQAM, Canada). He is also an analyst at The Decision Lab, a non-profit think-tank that uses behavioural science to improve decision-making. His research interest is in finding or creating the best tools for aiding decision-making and subjecting them to rigorous empirical analysis. He holds a Master's degree in psychology and a Bachelor's degree in cognitive science."
+  
+- name: Georges Alain Tchango Ngalé 
+  image: /2020/montreal/images/Photo_Georges.jpg
+  bio: "Georges Alain Tchango Ngalé est actuellement candidat au PhD en démographie à l’Université de Montréal et participe aux activités de recherche dans le cadre du projet « Trajectoires de participation des immigrants et des immigrantes à la société québécoise » (TrajIPaQ) du département de démographie. Dans le cadre de son projet de thèse, il s’intéresse aux relations entre la santé des immigrants et leur participation/intégration au sein de la société québécoise, et mobilise pour ce faire une approche méthodologique mixte. Plus globalement, ses champs d’intérêt heuristique portent sur la santé des populations et les violences basées sur le genre, en essayant de suivre autant que possible une perspective croisée entre le parcours de vie et l’intersectionnalité."
+  
+- name: David Pelletier
+  image: /2020/montreal/images/David_Pelletier_photo.jpeg   
+  bio: "David Pelletier is a postdoctoral researcher at McGill University’s Sociology Department and is also affiliated with INRS and Université de Montréal. Trained in demography, he uses surveys and administrative data to study family dynamics and inequality in the Canadian context, but also in the United States and Europe."
+
+- name: Julian Posada
+  image: /2020/montreal/images/Julian_posada.png   
+  bio: "Julian Posada is a Ph.D. student at the Faculty of Information and a Junior Fellow of Massey College. His research focuses on the personal networks of workers of digital labour platforms that produce, label, and verify data for artificial intelligence systems. It combines theories and methods from the sociology of work and social networks, and the political economy of platforms. Prior to joining the University of Toronto, he worked as a research assistant for the Laboratory for Computer Science (LRI) of the French National Centre for Scientific Research (CNRS). He holds a master's degree in sociology form the School for Advanced Studies in the Social Sciences and a bachelor's degree in the humanities from Sorbonne University."
+
+- name: Xavier St-Denis
+  image: /2020/montreal/images/xaxier_stdenis.png    
+  bio: "Xavier St-Denis is an economic sociologist currently working as a Postdoctoral Fellow in the Department of Sociology at the University of Toronto, Scarborough. He completed his graduate work at McGill University and spent two years conducting research in the Income Statistics Division at Statistics Canada, where he developed an expertise in the use of administrative and integrated datasets to explore new questions of high policy relevance. His research focuses on labour markets, stratification, careers, organizations, and comparative political economy using quantitative methods. In his most recent work, he explores the drivers of trends in job stability in Canada, the UK and Germany, and the consequences of job hopping on hiring outcomes in different US occupations. In addition, his postdoctoral research builds on work he conducted in parallel to his PhD on the drivers of intergenerational income transmission in Canada. He is currently dedicating some of his time to research on labour market inequality in the context of COVID-19."
+
+- name: Yang Teoh
+  image: 
+  bio: 
+  
+- name: Robert Vidigal
+  image: /2020/montreal/images/robert-wp.jpg
+  bio: "Robert Vidigal is a Ph.D Candidate at the Department of Political Science, Stony Brook University, NY. His research focuses on Comparative Political Behavior, Political Communication, Political Psychology, Public Opinion, and Network Analysis. He is interested in how political communication influences voters behavior and political attitudes. Especially, citizens’ ability and motivations to learn and process new information."
+
+- name: Zedan Xu
+  image: 
+  bio: 
+  
+- name: Baturay Yurtbay
+  image: /2020/montreal/images/Baturay Yurtbay.jpg  
+  bio: "I studied Political Science and International Relations at Yeditepe University, Istanbul, Turkey, and took a double major in Sociology at the same university. During my education, I also attended various universities such as The Hague University of Applied Sciences as an Erasmus student, Beijing Language and Culture, and University of Oslo for Comparative Social Science Summer School. I hold a Master at the Department of War Studies at King's College London. During my MA, I worked about peace processes in Turkey by evaluating the socio-political steps in this process by attempting to understand governmental responses and the reactions of terrorist actions. I have been research assistant in the Department of Sociology at Yeditepe University since 2016 where I do my doctoral study. I also studied in the department of Politics and International Relations as recognised student at University of Oxford between 2019-2020 for my doctoral studies. My main research areas are political sociology, terrorism studies, sociology of war and social movements. My doctoral research focuses on exploring the institutional responses and counter-terrorism strategies developed by Turkey and the United Kingdom in the aftermath of the terrorist attacks, 2003 Istanbul and 2005 London terrorist attacks. I plan to defend my thesis in September 2020."
+
+- name: Nima Zahedinameghi
+  image: /2020/montreal/images/Nima_Photo.JPG    
+  bio: "Nima Zahedinameghi earned a Ph.D. in sociology from Laval University. He comes to data science from a social science background where he has received both quantitative and theoretical training in the field. His current research agenda revolves around the combined application of social and complex systems theory and formal methods such as agent-based modeling and computational techniques. Methodologically, he is interested in using artificial intelligence for the study of human behavior in large-scale social systems. Nima also has a keen interest in data science as an overarching discipline for conducting interdisciplinary research in different aspects of society, politics, and economics. His current research includes a work-in-progress that provides ontological compatibility between sociology and other computational fields such as information science, and data science."
+
+- name: Firmin Zinvi
+  image: /2020/montreal/images/Firmin.png   
+  bio: "Firmin Zinvi is PhD candidate in demography at University of Montreal. He holds a master’s degree in demography at the Institut de Formation et de Recherche Démographiques in Cameroon and a bachelor’s degree in statistics at École nationale supérieure de statistique et d’économie appliquées in Ivory Coast. His research focuses on fertility, female employment, reproductive health and demographic dividend in Sub-Saharan Africa. He is also interested on quantitative methods such as longitudinal analysis, structural equation models, spatial analysis and most recently bayesian analysis." 
+
